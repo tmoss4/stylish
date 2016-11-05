@@ -1,4 +1,4 @@
-No solid top menu
+No solid top menu but has the 'click to change page section' functionality
 
 # Stylish Portolio template for Jekyll
 
